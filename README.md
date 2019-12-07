@@ -1,2 +1,2 @@
-# datacat_blog
-Learn Data Science
+# Welcome to Data Cat
+Data science implementations and consulting in analytics. 
